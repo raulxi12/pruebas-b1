@@ -1,0 +1,47 @@
+ip:indentificacion nuimerica unica cada pagina wep tiene una destinta.
+
+dominio web / url ; el nombre asociado a la ip del sitio web q utilizamos para solicitar recursos 
+
+dns;el servidor q se encarga de convertir el nombre del dominio a su indentificador unico
+
+sitio web;el dominio de un conjusto de varios sitios web 
+
+servidor web; es el ordenador q se encarga de darnos la informacion q pedimos
+
+hosting; es el dsico duro donde se almace toda la inoformacion 
+
+peticion; es la accion de pedir informacion al servidor 
+
+                                ¿Q ES HTML?                   
+
+*es un lenguaje de marcado de hypertexto
+
+*HTML no es un lenguaje de progamacion,es un lenguaje de estructura
+
+*HTML es la base de todas las paginas web
+
+*cada etiqueta le dice al navegador y a los motores de busqueda cual es la estructura de los documentos;elementos,organizacion,etc...
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+                                                ¡ETIQUETAS¡
+
+<etiqueta> paertura de etiqueta 
+*contenido de etiqueta
+</etiqueta> cierre de etiqueta
+
+*!+ent= <!--*establece el tipo de escritura (HTML5) -->
+<!--<!DOCTYPE html>
+*representa la raiz del documento*
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=ç, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+-->
+
